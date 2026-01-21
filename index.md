@@ -84,7 +84,7 @@ The AI Chat Bot can be accessed from the main navigation or home screen of the a
 
 <img src="shared image (21).jpg" alt="alt text" width="400">
 
-### First Time Experience
+### First Look
 
 When you open the AI Chat Bot for the first time:
 
@@ -127,7 +127,7 @@ Simply tap any button to get started, or type your own question!
 You can ask questions naturally, just like talking to a person:
 
 ✅ **Good examples:**
-- "I want to take leave tomarrow"
+- "I want to take leave tomorrow"
 - "Can you show me my attendance for this month?"
 - "I need to apply AR for yesterday"
 - "Download my December payslip"
