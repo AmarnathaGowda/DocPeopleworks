@@ -444,11 +444,6 @@ The AI Assistant uses:
 - Personal messages are not monitored by humans
 - No sensitive data is stored beyond your session
 
-### Voice Recording (When Enabled)
-
-- Voice is recorded temporarily only to convert to text
-- Recording is deleted immediately after conversion
-- No voice data is stored permanently
 
 ---
 
@@ -522,7 +517,6 @@ The AI Assistant uses:
 | **Limited to HR tasks** | It handles leave, attendance, payroll, and approvals – not other business functions. |
 | **No live transfer** | You cannot be transferred to a human agent from the chat. |
 | **Single task focus** | Ask for one thing at a time for best results. |
-| **Voice may be unavailable** | Voice input is not enabled for all users or organizations. |
 
 ### What This Means for Users
 
@@ -556,14 +550,10 @@ The AI Assistant uses:
 **Q: How do I ask for something?**
 > Just type naturally, like "I need leave tomorrow" or "Show my payslip". You can also tap the quick action buttons.
 
-**Q: Can I use voice?**
-> If your organization has voice enabled, you'll see a microphone icon. Tap it, speak, and then send.
 
 **Q: What if it doesn't understand me?**
 > Try rephrasing with simpler words, or use a quick action button for common tasks.
 
-**Q: Can I attach files or images?**
-> No, the assistant only accepts text and voice input.
 
 ---
 
